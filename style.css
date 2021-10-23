@@ -1,0 +1,23 @@
+h2 {
+font-size:17px;
+font-family:"Times New Roman";
+}
+.ilovefudge{
+border: 5px;
+border-color:burlywood;
+border-style: solid;
+background-color:darkseagreen
+}
+p {
+color: darkslategray;
+font-family: "Times New Roman";
+Font-size: 15px;
+}
+ul {
+color:darkslategray;
+font-family:"Times New Roman";
+Font-size: 15px;
+}
+.padding {
+padding: 5px;
+}
